@@ -20,32 +20,35 @@ A simple and fun **Rock Paper Scissors** game built using **Java Swing**. This g
    cd RockPaperScissorsGame
 
 3. **Compile the Code: Navigate to the src folder and compile the Java file**:
-  ```bash
-javac RockPaperScissorsGame.java
+   ```bash
+   javac RockPaperScissorsGame.java
 
 4. **Run the Program: Run the compiled class file**:
-  ```bash
-  java RockPaperScissorsGame
+    ```bash
+    java RockPaperScissorsGame
 
-## How to Play
-Click on Rock, Paper, or Scissors to make your choice.
-The computer will randomly select its choice.
-A popup will display the result of each round (Win/Lose/Tie).
-The first to score 3 points wins the game.
-After the game ends, you can choose to play again or exit.
+## How to play
+- Click on Rock, Paper, or Scissors to make your choice.
+- The computer will randomly select its choice.
+- A popup will display the result of each round (Win/Lose/Tie).
+- The first to score 3 points wins the game.
+- After the game ends, you can choose to play again or exit.
 
 ## Project Structure
-```bash
-RockPaperScissorsGame/
-├── src/
-│   └── RockPaperScissorsGame.java  # Main Java file
-├── README.md                       # Project documentation
+    ```bash
+    RockPaperScissorsGame/
+    ├── src/
+    │   └── RockPaperScissorsGame.java  # Main Java file
+    ├── README.md                       # Project documentation
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/eca7cd8a-b9ea-45f8-bab4-70f9de27904c)
-![image](https://github.com/user-attachments/assets/eddf7e2b-3db4-4dd7-b76f-bdf0c6e0c5a8)
-![image](https://github.com/user-attachments/assets/822c3ae1-cabc-4334-ac33-fd1103edab2d)
-![image](https://github.com/user-attachments/assets/d9b57a24-c5e2-405d-8062-7d739bf0ec76)
+![image](https://github.com/user-attachments/assets/2476914f-39e7-415c-906d-193cf3415816)
+
+![image](https://github.com/user-attachments/assets/90fdecb3-d253-4449-bab0-b2c4734ff78c)
+
+![image](https://github.com/user-attachments/assets/60b130a7-d879-4c69-849b-d67f4f8866c0)
+
+![image](https://github.com/user-attachments/assets/ee4f071c-04a8-423b-81bf-69815c688592)
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project.
